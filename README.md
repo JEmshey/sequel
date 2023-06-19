@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Fix OBB xywh-angle concatenation bug (#7404)
