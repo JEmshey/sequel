@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
